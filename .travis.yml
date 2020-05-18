@@ -1,1 +1,5 @@
 languaje: java
+notifications:
+  email:
+   abdielg295@gmail@gmail.com
+  on_success: always # default: change
